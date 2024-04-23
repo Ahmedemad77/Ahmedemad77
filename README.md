@@ -27,7 +27,8 @@ Former Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <
 
 
 ### Programming languages
-[<img src='https://github.com/ahmedemad77/ahmedemad77/Images/Verilog.png' height='40'>] Verilog
+
+![Verilog](Images/Verilog.png)
 
 [<img src='https://github.com/ahmedemad77/ahmedemad77/Images/SV.png' height='40'>] SystemVerilog
 
