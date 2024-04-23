@@ -30,6 +30,8 @@ Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <a href=
 
 
 ### Hardware Description Languages
+</div>
+<div align="center">
 ![Verilog](Images/Verilog.png) Verilog , 
 ![SystemVerilog](Images/SV.png) Systemverilog
 
