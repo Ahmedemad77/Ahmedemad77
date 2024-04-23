@@ -11,11 +11,15 @@
 Passionate about digital integrated circuit (IC) design ,Embedded systems.
 
 Former Digital IC Design Intern <a href="https://tactful.ai/](https://www.nti.sci.eg/](https://www.si-vision.com/">@Si-vision </a>
+
 Former Digtal IC Design diploma <a href="https://tactful.ai/](https://www.nti.sci.eg/">@NTI National Telecommunication Institute </a>
+
 Former Functional verification Training <a href="https://eda.sw.siemens.com/en-US/"> By Siemens Academy</a> 
 
 Former Embedded Systems Intern at Siemens EDA <a href="https://eda.sw.siemens.com/en-US/"> By Siemens </a>
-Former Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <a href="https://eda.sw.siemens.com/en-US/](https://cu-eco.org/"> @ Shell Eco-Racing team </a>
+
+Former Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <a href="https://eda.sw.siemens.com/en-US/](https://cu-eco.org/"> @ Shell Eco-Racing team </a>+
+
 
 ---
 
@@ -23,12 +27,18 @@ Former Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <
 
 
 ### Programming languages
-[<img src='https://github.com/ahmedemad77/ahmedemad77/Images/Verilog.svg' height='40'>] Verilog
-[<img src='https://github.com/ahmedemad77/ahmedemad77/Images/SV.svg' height='40'>] SystemVerilog
-[<img src='https://github.com/ahmedemad77/ahmedemad77/Images/perl.svg' height='40'>] Perl Scripting scripting 
-[<img src='https://github.com/ahmedemad77/ahmedemad77/Images/ycl.svg' height='40'>] TCl
+[<img src='https://github.com/ahmedemad77/ahmedemad77/Images/Verilog.png' height='40'>] Verilog
+
+[<img src='https://github.com/ahmedemad77/ahmedemad77/Images/SV.png' height='40'>] SystemVerilog
+
+[<img src='https://github.com/ahmedemad77/ahmedemad77/Images/Perl.png' height='40'>] Perl Scripting scripting 
+
+[<img src='https://github.com/ahmedemad77/ahmedemad77/Images/tcl.png' height='40'>] TCl
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) C
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) C++ 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Pyhon
 
 
