@@ -28,22 +28,12 @@ Former Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <
 
 ### Programming languages
 
-![Verilog](Images/Verilog.png) 
-
-![SystemVerilog](Images/SV.png)
-
-![Perl](Images/Perl.png) 
-
-![TCL](Images/tcl.png)
-
-[<img src='https://github.com/ahmedemad77/ahmedemad77/' height='40'>] Perl Scripting scripting 
-
-[<img src='https://github.com/ahmedemad77/ahmedemad77/' height='40'>] TCl
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) C
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) C++ 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Pyhon
+![Verilog](Images/Verilog.png) , 
+![SystemVerilog](Images/SV.png) , 
+![Perl](Images/Perl.png) ,
+![TCL](Images/tcl.png) ,
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) , 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) , 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 
