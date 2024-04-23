@@ -28,7 +28,9 @@ Former Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <
 
 ### Programming languages
 
-(Images/Verilog.png) Verilog , (Images/SV.png) SystemVerilog , (Images/Perl.png) Per , (Images/tcl.png) TCL, ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) C, 
+(Images/Verilog.png) Verilog
+
+    (Images/SV.png) SystemVerilog , (Images/Perl.png) Per , (Images/tcl.png) TCL, ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) C, 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) C++ ,
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Pyhon
 
