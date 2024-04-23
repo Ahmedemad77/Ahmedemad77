@@ -36,10 +36,12 @@ Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <a href=
 ![Verilog](Images/Verilog.png) Verilog , 
 ![SystemVerilog](Images/SV.png) SystemVerilog
 
-
-### Programming & Scripting 
 </div>
 <div align="left">
+  
+### Programming & Scripting 
+</div>
+<div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) , 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) , 
@@ -48,8 +50,12 @@ Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <a href=
 ![TCL](Images/tcl.png) TCl  
 
 
-
+</div>
+<div align="left">
 --- 
 
 # Follow me on
+</div>
+<div align="left">
+  
 [<img src='Images/Github.png' alt='github' height='40'>](https://github.com/Ahmedemad77)   [<img src='Images/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-emad-257869179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [<img src='Images/gmail.png' alt='gmail' height='40'>](mailto:Ahmed.emad184556@gmail.com)  
