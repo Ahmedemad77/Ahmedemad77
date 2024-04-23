@@ -45,5 +45,4 @@ Former Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <
 
 
 # Follow me on
-[<img src='Images/Github.png' alt='github' height='40'>](https://github.com/Ahmedemad77)   [<img src='Images/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-emad-257869179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[<img src='Images/gmail.png' alt='gmail' height='40'>](mailto:Ahmed.emad184556@gmail.com)  
+[<img src='Images/Github.png' alt='github' height='40'>](https://github.com/Ahmedemad77)   [<img src='Images/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed-emad-257869179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [<img src='Images/gmail.png' alt='gmail' height='40'>](mailto:Ahmed.emad184556@gmail.com)  
