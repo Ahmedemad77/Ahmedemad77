@@ -3,8 +3,6 @@
 
 ## 🚀 About Me 
 
-🎓 Graduated from Cairo University with a Bachelor's Degree in Electronics and Electrical Communication Engineering. 
-<img src="https://github.com/ahmedemad77/ahmedemad77/Images/CUFE.png" width="25" draggable="false"> )
 
 🎓 Graduated from Cairo University with a Bachelor's Degree in Electronics and Electrical Communication Engineering 
 
