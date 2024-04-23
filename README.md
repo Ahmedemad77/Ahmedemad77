@@ -1,5 +1,5 @@
 <!-- Headers -->
-# 👋 Hi there!,I’m Ahmed Emad 
+# 👋 Hi there!, I’m Ahmed Emad 
 
 ## 🚀 About Me 
 [comment]: <> (This is a comment, 
@@ -10,7 +10,8 @@
 
 Passionate about digital integrated circuit (IC) design and Embedded systems.
 
-### ⚡️ Experience 
+
+## ⚡️ Experience 
 
 🧾 Check out my [Resume]()
 
