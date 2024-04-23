@@ -26,12 +26,12 @@ Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <a href=
 📙 Check out my [Resume]()
 ---
 
-<h2 align="center">Skills </h2>
+<h2 >Skills </h2>
 
 
 ### Hardware Description Languages
 ![Verilog](Images/Verilog.png) Verilog , 
-![SystemVerilog](Images/SV.png) 
+![SystemVerilog](Images/SV.png) Systemverilog
 
 
 ### Programming & Scripting 
