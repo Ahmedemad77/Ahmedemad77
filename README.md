@@ -26,14 +26,23 @@ Former Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <
 <h2 align="center">Skills & Tools</h2>
 
 
-### Programming languages
+### Hardware Description Languages
+![Verilog](Images/Verilog.png) Verilog 
 
-![Verilog](Images/Verilog.png) , 
-![SystemVerilog](Images/SV.png) , 
-![Perl](Images/Perl.png) ,
-![TCL](Images/tcl.png) ,
+![SystemVerilog](Images/SV.png) 
+
+
+### Programming & Scripting 
+
+
+![Perl](Images/Perl.png) Perl , 
+![TCL](Images/tcl.png) TCl  , 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) , 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) , 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
+### Tools 
 
+
+# Follow me on
+[![Github](Images/Github.png)](https://github.com/Ahmedemad77)  [](https://www.linkedin.com/in/osama-m-8a0b0b137/)  [![linkedin](Images/linkedin.png)](https://www.linkedin.com/in/ahmed-emad-257869179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![gmail](Images/gmail.png](mailto:Ahmed.emad184556@gmail.com)  
