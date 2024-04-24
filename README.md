@@ -23,7 +23,7 @@ Embedded Systems Intern at Siemens EDA <a href="https://eda.sw.siemens.com/en-US
 
 Head of Embedded Control Team of Cairo UNiversity Shell Eco-Racing team <a href="https://eda.sw.siemens.com/en-US/](https://cu-eco.org/"> @ Shell Eco-Racing team </a>
 
-🧾 Check out my [Resume]()
+🧾 Check out my [Resume](https://drive.google.com/file/d/1oJFt7zLBNJmzHdeLbQzZVx5fFCxWYkIX/view?usp=drive_link)
 ---
 
 <h2 >Skills </h2>
